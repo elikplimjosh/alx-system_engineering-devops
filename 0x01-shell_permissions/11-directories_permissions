@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+#!/bin/bash 
+=======
 #!/bin/bash
+>>>>>>> be124444ce9c1df8ad0bf7fe32165533b676fd21
 chmod -R +111 */
