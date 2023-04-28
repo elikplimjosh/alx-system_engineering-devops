@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# Set a variable to 1
+counter=1
+
+# Loop indefinitely
+while [ $counter -eq 1 ]
+do
+    # Display a message
+    echo "To infinity and beyond"
+
+    # Wait for 2 seconds
+    sleep 2
+done
+
