@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
-
+# Display message to infinity
 # Set a variable to 1
-counter=1
 
 # Loop indefinitely
-while [ $counter -eq 1 ]
+while true
 do
     # Display a message
     echo "To infinity and beyond"
